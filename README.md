@@ -36,9 +36,9 @@ This dashboard enables HR teams to:
 4. Make data-driven retention strategies
 
 ## Project Files
-- `dashboard.png` - Main dashboard screenshot
-- `HR_Attrition_Data.csv` - *Sample dataset used*
-- `HR_Attrition.pbix` - *Power BI file available on request*
+- Performance 004.png - Main dashboard screenshot
+- HR-Employee-Attrition.xlsx - Sample dataset used  
+- HR_Attrition.pbix - Power BI file available on request
 
 ---
 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/isaiah-olotito-20a5b61b4) | [Upwork](https://www.upwork.com/freelancers/~0127dcfe771370c8c0)
